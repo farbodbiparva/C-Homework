@@ -1,0 +1,14 @@
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\homework 4.2\obj\Debug\net9.0\homework 4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\homework 4.2\obj\Debug\net9.0\homework 4.2.AssemblyInfoInputs.cache
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\homework 4.2\obj\Debug\net9.0\homework 4.2.AssemblyInfo.cs
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\homework 4.2\obj\Debug\net9.0\homework 4.2.csproj.CoreCompileInputs.cache
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\homework 4.2\bin\Debug\net9.0\homework 4.2.exe
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\homework 4.2\bin\Debug\net9.0\homework 4.2.deps.json
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\homework 4.2\bin\Debug\net9.0\homework 4.2.runtimeconfig.json
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\homework 4.2\bin\Debug\net9.0\homework 4.2.dll
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\homework 4.2\bin\Debug\net9.0\homework 4.2.pdb
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\homework 4.2\obj\Debug\net9.0\homework 4.2.dll
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\homework 4.2\obj\Debug\net9.0\refint\homework 4.2.dll
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\homework 4.2\obj\Debug\net9.0\homework 4.2.pdb
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\homework 4.2\obj\Debug\net9.0\homework 4.2.genruntimeconfig.cache
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\homework 4.2\obj\Debug\net9.0\ref\homework 4.2.dll
