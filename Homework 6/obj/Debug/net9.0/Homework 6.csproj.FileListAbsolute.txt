@@ -1,0 +1,14 @@
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\Homework 6\bin\Debug\net9.0\Homework 6.exe
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\Homework 6\bin\Debug\net9.0\Homework 6.deps.json
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\Homework 6\bin\Debug\net9.0\Homework 6.runtimeconfig.json
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\Homework 6\bin\Debug\net9.0\Homework 6.dll
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\Homework 6\bin\Debug\net9.0\Homework 6.pdb
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\Homework 6\obj\Debug\net9.0\Homework 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\Homework 6\obj\Debug\net9.0\Homework 6.AssemblyInfoInputs.cache
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\Homework 6\obj\Debug\net9.0\Homework 6.AssemblyInfo.cs
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\Homework 6\obj\Debug\net9.0\Homework 6.csproj.CoreCompileInputs.cache
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\Homework 6\obj\Debug\net9.0\Homework 6.dll
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\Homework 6\obj\Debug\net9.0\refint\Homework 6.dll
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\Homework 6\obj\Debug\net9.0\Homework 6.pdb
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\Homework 6\obj\Debug\net9.0\Homework 6.genruntimeconfig.cache
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\Homework 6\obj\Debug\net9.0\ref\Homework 6.dll
