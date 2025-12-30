@@ -77,14 +77,22 @@ namespace CLASS_Project
 
         private void button2_Click(object sender, EventArgs e)
         {
-            var result = contacts.Values.Where(c =>
-               (string.IsNullOrEmpty(IDtxt.Text) || c.ID.Contains(IDtxt.Text)) &&
-               (string.IsNullOrEmpty(FirstNametxt.Text) || c.FirstName.Contains(FirstNametxt.Text)) &&
-               (string.IsNullOrEmpty(LastNametxt.Text) || c.LastName.Contains(LastNametxt.Text)) &&
-               (string.IsNullOrEmpty(Phonetxt.Text) || c.Phone.Contains(Phonetxt.Text))
-           );
+            List<Contact> result = new List<Contact>();
 
-            RefreshGrid(result);
+            foreach (Contact c in contacts.Values)
+            {
+                if (
+                    (string.IsNullOrEmpty(IDtxt.Text) || c.ID.Contains(IDtxt.Text)) &&
+                    (string.IsNullOrEmpty(FirstNametxt.Text) || c.FirstName.Contains(FirstNametxt.Text)) &&
+                    (string.IsNullOrEmpty(LastNametxt.Text) || c.LastName.Contains(LastNametxt.Text)) &&
+                    (string.IsNullOrEmpty(Phonetxt.Text) || c.Phone.Contains(Phonetxt.Text))
+                )
+                {
+                    result.Add(c);
+                }
+
+                RefreshGrid(result);
+            }
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -162,11 +170,14 @@ namespace CLASS_Project
 
         private void SaveB_Click(object sender, EventArgs e)
         {
-            File.WriteAllLines(filePath,
-                contacts.Values.Select(c =>
-                    $"{c.ID},{c.FirstName},{c.LastName},{c.Phone}"
-                )
-            );
+            List<string> lines = new List<string>();
+
+            foreach (Contact c in contacts.Values)
+            {
+                lines.Add(c.ID + "," + c.FirstName + "," + c.LastName + "," + c.Phone);
+            }
+
+            File.WriteAllLines(filePath, lines);
 
             MessageBox.Show("Changes saved successfully");
             Application.Exit();
@@ -177,6 +188,11 @@ namespace CLASS_Project
             FirstNametxt.Clear();
             LastNametxt.Clear();
             Phonetxt.Clear();
+        }
+
+        private void Contacts_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

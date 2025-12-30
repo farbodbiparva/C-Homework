@@ -13,22 +13,22 @@ namespace CLASS_Project
 {
     public partial class Form2 : Form
     {
-        string filePath;
+        string PassPath;
         string loggeduser;
         public Form2()
         {
             InitializeComponent();
             Passtxt.PasswordChar = '*';
 
-            filePath = Path.Combine(Application.StartupPath, "pass.txt");
+            PassPath = Path.Combine(Application.StartupPath, "pass.txt");
             CreatePassFileIfNotExists();
         }
 
         private void CreatePassFileIfNotExists()
         {
-            if (!File.Exists(filePath))
+            if (!File.Exists(PassPath))
             {
-                File.WriteAllLines(filePath, new string[]
+                File.WriteAllLines(PassPath, new string[]
                 {
                     "admin,pleasegivemeA",
                     "farbod,pleasegivemeA"
@@ -40,7 +40,7 @@ namespace CLASS_Project
             string username = Usertxt.Text.Trim();
             string password = Passtxt.Text.Trim();
 
-            bool loginSuccess = File.ReadAllLines(filePath)
+            bool loginSuccess = File.ReadAllLines(PassPath)
                 .Any(line =>
                 {
                     var parts = line.Split(',');

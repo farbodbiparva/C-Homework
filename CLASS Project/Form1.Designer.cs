@@ -167,6 +167,7 @@
             Contacts.Name = "Contacts";
             Contacts.Size = new Size(669, 291);
             Contacts.TabIndex = 12;
+            Contacts.CellContentClick += Contacts_CellContentClick;
             // 
             // EditB
             // 
