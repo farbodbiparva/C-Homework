@@ -1,0 +1,17 @@
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\bin\Debug\net9.0-windows\CLASS Project.exe
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\bin\Debug\net9.0-windows\CLASS Project.deps.json
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\bin\Debug\net9.0-windows\CLASS Project.runtimeconfig.json
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\bin\Debug\net9.0-windows\CLASS Project.dll
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\bin\Debug\net9.0-windows\CLASS Project.pdb
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\obj\Debug\net9.0-windows\CLASS_Project.Form2.resources
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\obj\Debug\net9.0-windows\CLASS Project.csproj.GenerateResource.cache
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\obj\Debug\net9.0-windows\CLASS Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\obj\Debug\net9.0-windows\CLASS Project.AssemblyInfoInputs.cache
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\obj\Debug\net9.0-windows\CLASS Project.AssemblyInfo.cs
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\obj\Debug\net9.0-windows\CLASS Project.csproj.CoreCompileInputs.cache
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\obj\Debug\net9.0-windows\CLASS Project.dll
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\obj\Debug\net9.0-windows\refint\CLASS Project.dll
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\obj\Debug\net9.0-windows\CLASS Project.pdb
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\obj\Debug\net9.0-windows\CLASS Project.genruntimeconfig.cache
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\obj\Debug\net9.0-windows\ref\CLASS Project.dll
+C:\Users\FarbodBi\Desktop\CE\1st Term\AP C#\Homework\CLASS Project\obj\Debug\net9.0-windows\CLASS_Project.Form1.resources
